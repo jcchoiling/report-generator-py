@@ -1,0 +1,1 @@
+SELECT * FROM world WHERE test_02 = {bar}
